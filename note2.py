@@ -48,3 +48,8 @@ elif rating == "R" and age >= 17:
      print("You can watch this movie!")
 else:
      print("You are not allowed to watch this movie")
+
+
+
+
+# The 'pass' statement used for unfinished function, as silent exception handler (with try and except), 
